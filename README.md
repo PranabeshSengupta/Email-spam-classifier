@@ -65,6 +65,3 @@ Feel free to fork the project and submit pull requests for improvements! 🚀
 ## 📄 License
 This project is licensed under the MIT License.
 
----
-
-Would you like me to also create a sample `requirements.txt` file and a short example code snippet (like `predict("Congratulations! You've won a prize.")`) to make the GitHub project even better? 🎯
