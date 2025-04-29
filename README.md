@@ -1,6 +1,3 @@
-Sure! Here's a **complete README.md** file you can use for your **Email Spam Classifier** project on GitHub:
-
----
 
 # 📧 Email Spam Classifier
 
