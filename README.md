@@ -25,9 +25,9 @@ email-spam-classifier/
 │
 ├── README.md
 ├── requirements.txt
-├── spam_classifier.ipynb    # Jupyter Notebook with full code
-├── model/                   # (optional) saved model files
-└── data/                    # email dataset (spam/ham)
+├── spam-spam-detection.ipynb    # Jupyter Notebook with full code
+├── model.pkl                 # (optional) saved model files
+└── email.csv                  # email dataset (spam/ham)
 ```
 
 ## 📊 Dataset
